@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @JCGranadosV
-- 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently developing in React
+- 👀 I’m interested in AI and Web Development
+- 🌱 I’m currently developing in Python & JSX/React
 - 💞️ I’m looking to collaborate on any project oriented to developing ML software or web application.
 - 📫 How to reach me : juanca_grave@hotmail.com || IG: @jcgranadosv
 
