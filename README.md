@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @JCGranadosV
+- 👋 Hi, I’m Camilo
 - 👀 I’m interested in AI and Web Development
 - 🌱 I’m currently developing in Python & JSX/React
 - 💞️ I’m looking to collaborate on any project oriented to developing ML software or web application.
