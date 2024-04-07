@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Camilo
-- 👀 I’m interested in AI and Web Development
-- 🌱 I’m currently developing in Python & JSX/React
+- 👀 I’m interested in AI and Fullstack Development
+- 🌱 I’m currently developing in Python & React/Next.js
 - 💞️ I’m looking to collaborate on any project oriented to developing ML software or web application.
 - 📫 How to reach me : juanca_grave@hotmail.com || IG: @jcgranadosv
 
